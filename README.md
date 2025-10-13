@@ -9,7 +9,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoyeh62&layout=compact&theme=tokyonight)
 
-![LinkedIn](https://img.shields.io/badge/-Mon%20LinkedIn-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/l%C3%A9o-morel1/)
+<a href="https://www.linkedin.com/in/l%C3%A9o-morel1/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</a>
 
 ![snake gif](https://github.com/leoyeh62/leoyeh62/blob/output/github-contribution-grid-snake.svg)
 
