@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Léo Morel
+![Profile views](https://komarev.com/ghpvc/?username=leoyeh62&label=Vues%20du%20profil&color=0e75b6&style=flat)
 
-<!--
-**leoyeh62/leoyeh62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Futur développeur ! 
 
-Here are some ideas to get you started:
+🎓 Étudiante à l’Université d'Artois.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Toujours en quête de nouveaux défis !
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoyeh62&layout=compact&theme=tokyonight)
+
+![LinkedIn](https://img.shields.io/badge/-Mon%20LinkedIn-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/l%C3%A9o-morel1/)
+
+![snake gif](https://github.com/leoyeh62/leoyeh62/blob/output/github-contribution-grid-snake.svg)
+
+###
