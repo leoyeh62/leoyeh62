@@ -22,7 +22,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: leoyeh62
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.svg?palette=github-dark
           theme: dark
           background: "#000000"
 
