@@ -1,8 +1,11 @@
 name: Generate Snake
 
+permissions:
+  contents: write
+  
 on:
   schedule:
-    - cron: "0 0 * * *" # mise à jour chaque jour à minuit
+    - cron: "0 0 * * *" 
   push:
     branches:
       - main
