@@ -1,4 +1,5 @@
 # 👋 Salut, moi c’est Léo Morel
+
 ![Profile views](https://komarev.com/ghpvc/?username=leoyeh62&label=Vues%20du%20profil&color=0e75b6&style=flat)
 
 💻 Futur développeur ! 
@@ -7,11 +8,11 @@
 
 🚀 Toujours en quête de nouveaux défis !
 
-___
+
 
 ## Langages
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -41,7 +42,7 @@ ___
 </div>
 
 
-###
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoyeh62&layout=compact&theme=tokyonight)
@@ -50,7 +51,7 @@ ___
 
 ## 🌐 Réseau(x)
 
-###
+
 <a href="mailto:morel.leo23@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </a>
@@ -58,7 +59,7 @@ ___
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </a>
 
-###
+
 
 ## 🌍 Portfolio et Projets
 
@@ -66,8 +67,6 @@ Le portfolio en ligne est accessible [ici](https://leoyeh62.github.io/portfolio/
 
 Site web statique évènementiel ➡️ [ici](https://leoyeh62.github.io/KrakensLair/index.html)
 
-###
 
 ![snake gif](https://github.com/leoyeh62/leoyeh62/blob/output/github-contribution-grid-snake.svg)
 
-###
