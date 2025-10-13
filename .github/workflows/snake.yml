@@ -24,6 +24,7 @@ jobs:
           github_user_name: leoyeh62
           outputs: dist/github-contribution-grid-snake.svg
           theme: dark
+          background: "#000000"
 
       - name: Push Snake to the output branch
         uses: crazy-max/ghaction-github-pages@v4
