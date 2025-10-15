@@ -4,10 +4,7 @@
 
 💻 Futur développeur ! 
 
-🎓 Étudiante à l’Université d'Artois.  
-
-🚀 Toujours en quête de nouveaux défis !
-
+🎓 Étudiant à l’Université d'Artois.  
 
 
 ## Langages
