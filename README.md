@@ -42,7 +42,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoyeh62&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoyeh62&layout=compact&theme=tokyonight)](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leoyeh62&layout=compact&theme=tokyonight)
 
 ___
 
