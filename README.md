@@ -2,9 +2,9 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=leoyeh62&label=Vues%20du%20profil&color=0e75b6&style=flat)
 
-💻 Futur développeur ! 
+💻 Développeur logiciel | Intéressé par la Data & l'IA 
 
-🎓 Étudiant à l’Université d'Artois.  
+🎓 Étudiant en double diplomation à l'UQAC en provenance de l’Université d'Artois.  
 
 
 ## Langages
@@ -42,7 +42,7 @@
 
 
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leoyeh62&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=leoyeh62&layout=compact&theme=tokyonight)
 
 ___
 
